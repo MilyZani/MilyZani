@@ -1,5 +1,3 @@
-# Camily Zaninello
-
 ### Ola eu sou a Camily Zaninello 👋 
 Estou me graduando em Análise e Desenvolvimento de Sistemas na UNIFIL e atualmente sou uma Desenvolvedora Backend .NET Jr e também possuo experiência com Python.
 
